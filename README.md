@@ -1,5 +1,5 @@
-# responsive_ui_flutter
+# Responsive UI in Flutter
 
 An app made for learning to build Responsive Apps in Flutter.
 
-![](FlutterResponsiveUI.gif)
+![](ResponsiveUIFlutter.gif)
